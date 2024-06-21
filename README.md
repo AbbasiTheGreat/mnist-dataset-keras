@@ -1,1 +1,1 @@
-thisnotebook is structured to prepare the data for training a neural network model on the MNIST dataset, covering steps from data loading and preprocessing to label encoding. The rest of the notebook likely includes defining the model architecture, compiling the model, and training it
+this notebook is structured to prepare the data for training a neural network model on the MNIST dataset, covering steps from data loading and preprocessing to label encoding. The rest of the notebook likely includes defining the model architecture, compiling the model, and training it
